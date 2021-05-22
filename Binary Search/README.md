@@ -2,16 +2,16 @@ Number you want to search: x
 
 mid = low + x;
 
-```(low + high)/2 = low + x
+```( low + high ) / 2 = low + x
 
-x = (low + high)/2 - low
+x = ( low + high ) / 2 - low
 
-x = (low + high - 2 * low ) / 2
+x = ( low + high - 2 * low ) / 2
 
-x = (high - low ) / 2
+x = ( high - low ) / 2
 
 
-> mid = low + (high - low ) / 2   [ The Value of x ] 
+> mid = low + ( high - low ) / 2   [ The Value of x ] 
 ```
 
 mid = ( low + high ) / 2
