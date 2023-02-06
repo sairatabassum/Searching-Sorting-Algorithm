@@ -1,3 +1,5 @@
+Time Complexity : O(log n)
+
 Number you want to search: x
 
 mid = low + x;
