@@ -1,3 +1,6 @@
+![binary-search-sequence-search](https://user-images.githubusercontent.com/52861859/216886748-6f7c37ef-34e1-407e-9323-487fa5dc4571.gif)
+
+
 Time Complexity : O(log n)
 
 Number you want to search: x
